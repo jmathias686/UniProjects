@@ -1,0 +1,3 @@
+[submodule "COMP3141_Haskell"]
+	path = COMP3141_Haskell
+	url = git@github.com:jmathias686/COMP3141.git
